@@ -1,0 +1,5 @@
+all:
+  vars:
+    plan: splan
+    resource_group: rgroup
+    sha256: z1z2z3e4ed
