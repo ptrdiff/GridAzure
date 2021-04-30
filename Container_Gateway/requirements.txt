@@ -135,7 +135,7 @@ six==1.13.0
 sshtunnel==0.1.5
 tabulate==0.8.6
 uamqp==1.2.5
-urllib3==1.25.7
+urllib3==1.25.8
 vsts==0.1.25
 vsts-cd-manager==1.0.2
 websocket-client==0.56.0
